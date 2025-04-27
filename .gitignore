@@ -7,9 +7,7 @@ __pycache__/
 
 .trash/
 data/
-paper/v1-neuips2024/
-paper/v2-arxiv/
-paper/v2-tip/
+paper/
 paper/journal_suggestions.xlsx
 experiments/hpc/
 experiments/imagenet_classification/
