@@ -57,7 +57,11 @@
       <file>numeric.bbx</file>
       <file>numeric-comp.bbx</file>
       <file>ieee.bbx</file>
+<<<<<<< HEAD
       <file>numeric-comp.cbx</file>
+=======
+      <file>numeric-verb.cbx</file>
+>>>>>>> 11a669e ( polished branch)
       <file>ieee.cbx</file>
       <file>biblatex.cfg</file>
       <file>english.lbx</file>

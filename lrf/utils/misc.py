@@ -172,7 +172,7 @@ def vis_image(
         if not os.path.exists(save_dir):
             os.makedirs(save_dir)
 
-        save_path = os.path.join(save_dir, f"{prefix}.{format.lower()}")
+        save_path = os.path.join(save_dir, f"{prefix}.{format}".lower())
         fig.savefig(save_path, bbox_inches="tight", pad_inches=0)
 
     return fig, ax
@@ -265,7 +265,7 @@ def vis_image_batch(
     if save_dir:
         os.makedirs(save_dir, exist_ok=True)
         fig.savefig(
-            os.path.join(save_dir, f"{prefix}.{format}").lower(),
+            os.path.join(save_dir, f"{prefix}.{format}".lower()),
             bbox_inches="tight",
             pad_inches=0,
         )
@@ -662,8 +662,8 @@ def vis_collage(
                 individual_fig.savefig(
                     os.path.join(
                         save_dir,
-                        f"{prefix}_{method}_bpp_{bpp_ij:.2f}_psnr_{psnr_ij:.2f}.{format}",
-                    ).lower(),
+                        f"{prefix}_{method}_bpp_{bpp_ij:.2f}_psnr_{psnr_ij:.2f}.{format}".lower(),
+                    ),
                     bbox_inches="tight",
                     pad_inches=0,
                 )
@@ -675,7 +675,7 @@ def vis_collage(
 
         # Save the subplots collage
         fig.savefig(
-            os.path.join(save_dir, f"{prefix}_qualitative_comparison.{format}").lower(),
+            os.path.join(save_dir, f"{prefix}_qualitative_comparison.{format}".lower()),
             bbox_inches="tight",
             pad_inches=0,
         )

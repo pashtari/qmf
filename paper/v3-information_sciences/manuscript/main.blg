@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: sections/appendix.aux
+The style file: elsarticle-num-names.bst
+Database file #1: ref.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty pages in lee2000algorithms
+Warning--missing institution in deutsch1996zlib
+You've used 38 entries,
+            2918 wiz_defined-function locations,
+            856 strings with 11531 characters,
+and the built_in function-call counts, 24294 in all, are:
+= -- 1798
+> -- 920
+< -- 28
++ -- 346
+- -- 306
+* -- 2725
+:= -- 3427
+add.period$ -- 43
+call.type$ -- 38
+change.case$ -- 292
+chr.to.int$ -- 38
+cite$ -- 40
+duplicate$ -- 1859
+empty$ -- 1830
+format.name$ -- 417
+if$ -- 4525
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 352
+newline$ -- 191
+num.names$ -- 154
+pop$ -- 681
+preamble$ -- 1
+purify$ -- 290
+quote$ -- 0
+skip$ -- 505
+stack$ -- 0
+substring$ -- 1153
+swap$ -- 1304
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 339
+warning$ -- 2
+while$ -- 173
+width$ -- 0
+write$ -- 507
+(There were 2 warnings)

@@ -39,7 +39,7 @@ setup(
         "opt_einsum",
         "einops",
         "pillow",
-        "skimage",
+        "scikit-image",
         "seaborn",
         "pyinstrument",
     ],
