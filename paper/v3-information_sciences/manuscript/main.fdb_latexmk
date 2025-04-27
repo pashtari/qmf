@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex main"] 1745763235.4102 "main.aux" "main.bbl" "main" 1745763239.4377 0
+["bibtex main"] 1745763235.4102 "main.aux" "main.bbl" "main" 1745768692.72568 0
   "./elsarticle-num-names.bst" 1736444230 28896 8b641a5a78ad57e6a7ef6fdfeefc773c ""
   "./ref.bib" 1737538564 13902 e6b8671ea6a2bf3535bfc3e1d37a6614 ""
-  "main.aux" 1745763238.18458 18127 4c3c6518ec949eb521452d89e4e9732e "pdflatex"
-  "sections/appendix.aux" 1745763238.16811 2692 75fa28fc81ab8f61765504e3894c9317 "pdflatex"
+  "main.aux" 1745768692.05793 18127 4c3c6518ec949eb521452d89e4e9732e "pdflatex"
+  "sections/appendix.aux" 1745768692.04306 2692 75fa28fc81ab8f61765504e3894c9317 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1745763235.72134 "/Users/pooya/Dropbox/research/projects/lrf/paper/v3-information_sciences/manuscript/main.tex" "main.pdf" "main" 1745763239.43816 0
-  "/Users/pooya/Dropbox/research/projects/lrf/paper/v3-information_sciences/manuscript/main.tex" 1745763058.13013 4814 e61088314eb59fac1543623aeb77f035 ""
+["pdflatex"] 1745768689.73804 "/Users/pooya/Dropbox/research/projects/lrf/paper/v3-information_sciences/manuscript/main.tex" "main.pdf" "main" 1745768692.72606 0
+  "/Users/pooya/Dropbox/research/projects/lrf/paper/v3-information_sciences/manuscript/main.tex" 1745768689.50109 4814 e61088314eb59fac1543623aeb77f035 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -279,20 +279,20 @@
   "figures/kodim23_cb_components.pdf" 1737478864 22688 29d3a452122c4dea48d48c2d69039d37 ""
   "figures/kodim23_cr_components.pdf" 1737478864 19586 2fb12fe835b7e14686a0edea24f5fb59 ""
   "figures/qmf_encoder.pdf" 1737736014.776 2279731 7524af456a78ec08e4476fe6af3b3ba4 ""
-  "main.aux" 1745763238.18458 18127 4c3c6518ec949eb521452d89e4e9732e "pdflatex"
+  "main.aux" 1745768692.05793 18127 4c3c6518ec949eb521452d89e4e9732e "pdflatex"
   "main.bbl" 1745763235.7058 14945 305b515a12c76d9c6ec815112fc7cc41 "bibtex main"
-  "main.spl" 1745763236.14827 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1745763058.13013 4814 e61088314eb59fac1543623aeb77f035 ""
+  "main.spl" 1745768690.05426 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1745768689.50109 4814 e61088314eb59fac1543623aeb77f035 ""
   "preamble.tex" 1737478864 1856 7b0dfd0e9f68b5cee07555773de148d1 ""
   "sections/abstract.tex" 1745763227.31647 1668 733e4f57e9caa90dca25823db72c221e ""
   "sections/acknowledgments.tex" 1737740842.293 212 5c3f3dec30ba8b42a3dd307cf2182a01 ""
-  "sections/appendix.aux" 1745763238.16811 2692 75fa28fc81ab8f61765504e3894c9317 "pdflatex"
+  "sections/appendix.aux" 1745768692.04306 2692 75fa28fc81ab8f61765504e3894c9317 "pdflatex"
   "sections/appendix.tex" 1737736014.878 16587 acb8ffd5673c46f9eebf8f82bf607732 ""
   "sections/conclusion.tex" 1737736014.888 1506 278ee70c59d7bb2ce2837278f215563e ""
   "sections/discussion.tex" 1737736014.889 3313 795ec58efd995ebaf97fb024aa12816d ""
   "sections/experiments.tex" 1737736014.891 22353 68ae6cdd5f4b9e014c14c2c00c6d2ac7 ""
   "sections/introduction.tex" 1737736014.893 3888 66e5b333fa2bcd1f0598ec2f77d9f451 ""
-  "sections/method.tex" 1743081482.711 22884 f682063f79e034d74bda66de5c26be89 ""
+  "sections/method.tex" 1745765554.07292 22884 0f78cd6a49053bffc63a0e6aff05dc18 ""
   "sections/related_work.tex" 1737736014.898 4277 de34e444d6b399e70ec7b97c7a8ca6cd ""
   (generated)
   "main.aux"

@@ -104,14 +104,14 @@ where $\|\cdot\|_\text{F}$ denotes the Frobenius norm; $R \leq \min(M,N)$ repres
         \STATE $\bm{A} \gets \bm{X} \bm{V}^k$
         \STATE $\bm{B} \gets \bm{V}^{k^{\mathsf{T}}} \bm{V}^k$
         \FOR{$r = 1, \ldots, R$}
-        \STATE \label{alg:step:u_update:1} $\displaystyle U_{:r}^{k+1/2} \gets \frac{A_{:r} - \sum_{s = 1}^{r-1} B_{sr} U_{:s}^{k+1} - \sum_{s=r+1}^M B_{sr} U_{:s}^k}{\| V_{:r}^k \|^2}$
+        \STATE \label{alg:step:u_update:1} $\displaystyle U_{:r}^{k+1/2} \gets \frac{A_{:r} - \sum_{s = 1}^{r-1} B_{sr} U_{:s}^{k+1} - \sum_{s=r+1}^R B_{sr} U_{:s}^k}{\| V_{:r}^k \|^2}$
         \vspace{2pt}
         \STATE \label{alg:step:u_update:2} $\displaystyle U_{:r}^{k+1} \gets \clamp_{[\alpha,\beta]}(\round( U_{:r}^{k+1/2}))$
         \ENDFOR
         \STATE $\bm{A} \gets \bm{X}^\mathsf{T} \bm{U}^{k+1}$
         \STATE $\bm{B} \gets \bm{U}^{{k+1}^\mathsf{T}} \bm{U}^{k+1}$
         \FOR{$r = 1, \ldots, R$}
-        \STATE \label{alg:step:v_update:1} $\displaystyle V_{:r}^{k+1/2} \gets \frac{A_{:r} - \sum_{s = 1}^{r-1} B_{sr} V_{:s}^{k+1} - \sum_{s = r+1}^N B_{sr} V_{:s}^k}{\| U_{:r}^{k+1} \|^2}$
+        \STATE \label{alg:step:v_update:1} $\displaystyle V_{:r}^{k+1/2} \gets \frac{A_{:r} - \sum_{s = 1}^{r-1} B_{sr} V_{:s}^{k+1} - \sum_{s = r+1}^R B_{sr} V_{:s}^k}{\| U_{:r}^{k+1} \|^2}$
         \vspace{2pt}
         \STATE \label{alg:step:v_update:2} $\displaystyle V_{:r}^{k+1} \gets \clamp_{[\alpha,\beta]}(\round(V_{:r}^{k+1/2}))$
         \ENDFOR
