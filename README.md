@@ -1,6 +1,6 @@
-![LRF Logo](figures/logo.svg)
+![QMF Logo](figures/logo.svg)
 
-This repository provides a PyTorch implementation of **low-rank factorization (LRF) methods for data compression**. Particularly, it includes the official implementation of [*"Quantization-aware Matrix Factorization for Low Bit Rate Image Compression."*](https://arxiv.org/abs/2408.12691)
+This repository provides a PyTorch implementation of **quantization-aware matrix factorization (QMF) methods for data compression**. Particularly, it includes the official implementation of [*"Quantization-aware Matrix Factorization for Low Bit Rate Image Compression."*](https://arxiv.org/abs/2408.12691)
 
 
 <table style="border-collapse: collapse; table-layout: fixed; width: 100%;">
@@ -39,10 +39,10 @@ This repository provides a PyTorch implementation of **low-rank factorization (L
 
 First, ensure that you have [PyTorch](https://pytorch.org/get-started/locally/) installed. The installation process may vary depending on your hardware (CPU, GPU, etc.).
 
-Next, install the `lrf` package:
+Next, install the `qmf` package:
 
 ```bash
-$ pip install git+https://github.com/pashtari/lrf.git
+$ pip install git+https://github.com/pashtari/qmf.git
 ```
 
 
@@ -54,17 +54,17 @@ This guide will help you get started with the quantization-aware matrix factoriz
 ```python
 import torch
 
-import lrf
+import qmf
 ```
 
 **Load Image**
 ```python
-image = lrf.read_image("./kodim01.png")
+image = qmf.read_image("./kodim01.png")
 ```
 
 **QMF Encode Image**
 ```python
-qmf_encoded = lrf.qmf_encode(
+qmf_encoded = qmf.qmf_encode(
     image,
     color_space="YCbCr",
     scale_factor=(0.5, 0.5),
@@ -79,15 +79,15 @@ qmf_encoded = lrf.qmf_encode(
 
 **Decode QMF-Encoded Image**
 ```python
-image_qmf = lrf.qmf_decode(qmf_encoded)
+image_qmf = qmf.qmf_decode(qmf_encoded)
 ```
 
 **Calculate Compression Metrics**
 ```python
-cr_value = lrf.compression_ratio(image, qmf_encoded)
-bpp_value = lrf.bits_per_pixel(image.shape[-2:], qmf_encoded)
-psnr_value = lrf.psnr(image, image_qmf)
-ssim_value = lrf.ssim(image, image_qmf)
+cr_value = qmf.compression_ratio(image, qmf_encoded)
+bpp_value = qmf.bits_per_pixel(image.shape[-2:], qmf_encoded)
+psnr_value = qmf.psnr(image, image_qmf)
+ssim_value = qmf.ssim(image, image_qmf)
 
 metrics = {
     "compression ratio": cr_value,
@@ -109,8 +109,8 @@ print(metrics)
 
 **Visualize Original and Compressed Images**
 ```python
-lrf.vis_image(image, title="Original")
-lrf.vis_image(
+qmf.vis_image(image, title="Original")
+qmf.vis_image(
     image_qmf, title=f"QMF (bit rate = {bpp_value:.2f} bpp, PSNR = {psnr_value:.2f} dB)"
 )
 ```

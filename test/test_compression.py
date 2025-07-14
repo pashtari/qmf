@@ -2,25 +2,25 @@ import torch
 from skimage import data
 from matplotlib import pyplot as plt
 
-import lrf
+import qmf
 
 # Load the astronaut image from skimage and convert it to YCbCr
 img_rgb = torch.from_numpy(data.astronaut()).permute(2, 0, 1)
 
-img_ycbcr = lrf.rgb_to_ycbcr(img_rgb)
-img_rgb_hat = lrf.ycbcr_to_rgb(img_ycbcr)
+img_ycbcr = qmf.rgb_to_ycbcr(img_rgb)
+img_rgb_hat = qmf.ycbcr_to_rgb(img_ycbcr)
 print(torch.square(img_rgb - img_rgb_hat).mean())
 
 # Perform chroma subsampling with a 4:2:0 ratio
-downsampled_ycbcr = lrf.chroma_downsampling(
+downsampled_ycbcr = qmf.chroma_downsampling(
     img_ycbcr, scale_factor=(0.5, 0.5), mode="area"
 )
 
 # Perform chroma upsampling with a 4:2:0 ratio
-img_ycbcr_hat = lrf.chroma_upsampling(
+img_ycbcr_hat = qmf.chroma_upsampling(
     downsampled_ycbcr, scale_factor=(2, 2), mode="nearest"
 )
-img_rgb_hat = lrf.ycbcr_to_rgb(img_ycbcr_hat).clip(0, 255)
+img_rgb_hat = qmf.ycbcr_to_rgb(img_ycbcr_hat).clip(0, 255)
 
 # Plot the original and downsampled images
 fig, ax = plt.subplots(2, 4, figsize=(40, 20))

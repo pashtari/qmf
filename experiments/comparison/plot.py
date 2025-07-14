@@ -1,22 +1,24 @@
 import numpy as np
 import pandas as pd
 
-import lrf
+import qmf
 
 
 # Set directories
-data = "clic2024"
+data = "kodak"
 results_dir = "experiments/comparison"
-figures_dir = "paper/v2-tip/manuscript/figures"
+figures_dir = (
+    "/scratch/Dropbox/Apps/Overleaf/qmf/v4-information_sciences/manuscript/figures"
+)
 
 
 # Load results
-results = lrf.read_config(f"{results_dir}/{data}_results.json")
+results = qmf.read_config(f"{results_dir}/{data}_results.json")
 results = pd.DataFrame(results)
 results = results.query("`bit rate (bpp)` < 0.8")
 
 # Plot PSNR vs bpp
-plot = lrf.Plot(results, columns=("data", "method", "bit rate (bpp)", "PSNR (dB)"))
+plot = qmf.Plot(results, columns=("data", "method", "bit rate (bpp)", "PSNR (dB)"))
 
 plot.interpolate(
     x="bit rate (bpp)",
@@ -32,8 +34,7 @@ plot.plot(
     errorbar="se",
     dashed=True,
     xlim=(0.05, 0.5),
-    # ylim=(15, None),  # kodak
-    ylim=(16.5, 31),  # clic
+    ylim=(17, None),
     legend_labels=["JPEG", "SVD", "QMF"],
 )
 
@@ -41,25 +42,24 @@ plot.save(save_dir=results_dir, prefix=data, format="pdf")
 plot.save(save_dir=figures_dir, prefix=data, format="pgf")
 
 
-# Plot SSIM vs bpp
-plot = lrf.Plot(results, columns=("data", "method", "bit rate (bpp)", "SSIM"))
+# Plot MS-SSIM vs bpp
+plot = qmf.Plot(results, columns=("data", "method", "bit rate (bpp)", "MS-SSIM"))
 
 plot.interpolate(
     x="bit rate (bpp)",
-    y="SSIM",
+    y="MS-SSIM",
     x_values=np.linspace(0.05, 0.5, 19),
     groupby=["method", "data"],
 )
 
 plot.plot(
     x="bit rate (bpp)",
-    y="SSIM",
+    y="MS-SSIM",
     groupby="method",
     errorbar="se",
     dashed=True,
     xlim=(0.05, 0.5),
-    # ylim=(0.35, None),  # kodak
-    ylim=(0.42, None),  # clic
+    ylim=(0.675, None),
     legend_labels=["JPEG", "SVD", "QMF"],
 )
 
@@ -68,7 +68,7 @@ plot.save(save_dir=figures_dir, prefix=data, format="pgf")
 
 
 # Plot encoding time vs bpp
-plot = lrf.Plot(
+plot = qmf.Plot(
     results, columns=("data", "method", "bit rate (bpp)", "encoding time (ms)")
 )
 
@@ -92,7 +92,7 @@ plot.save(save_dir=results_dir, prefix=data, format="pdf")
 
 
 # Plot decoding time vs bpp
-plot = lrf.Plot(
+plot = qmf.Plot(
     results, columns=("data", "method", "bit rate (bpp)", "decoding time (ms)")
 )
 

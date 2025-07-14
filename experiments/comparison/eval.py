@@ -5,7 +5,7 @@ import argparse
 import numpy as np
 import torch
 
-import lrf
+import qmf
 
 
 def get_args():
@@ -44,7 +44,7 @@ def get_args():
 
 def eval_image(image):
     image_id = os.path.basename(image)
-    image = lrf.read_image(image)
+    image = qmf.read_image(image)
 
     results = []
 
@@ -52,10 +52,10 @@ def eval_image(image):
     for quality in range(0, 75, 1):
         params = {"quality": quality}
         config = {"data": image_id, "method": "JPEG", **params}
-        log = lrf.eval_compression(
+        log = qmf.eval_compression(
             image,
-            lrf.pil_encode,
-            lrf.pil_decode,
+            qmf.pil_encode,
+            qmf.pil_decode,
             format="JPEG",
             **params,
         )
@@ -73,7 +73,7 @@ def eval_image(image):
             "patch_size": (8, 8),
         }
         config = {"data": image_id, "method": "SVD", **params}
-        log = lrf.eval_compression(image, lrf.svd_encode, lrf.svd_decode, **params)
+        log = qmf.eval_compression(image, qmf.svd_encode, qmf.svd_decode, **params)
         results.append({**config, **log})
         print(
             f"method {config['method']}, quality {quality}, image {config['data']} done."
@@ -93,7 +93,7 @@ def eval_image(image):
             "verbose": False,
         }
         config = {"data": image_id, "method": "QMF", **params}
-        log = lrf.eval_compression(image, lrf.qmf_encode, lrf.qmf_decode, **params)
+        log = qmf.eval_compression(image, qmf.qmf_encode, qmf.qmf_decode, **params)
         results.append({**config, **log})
         print(
             f"method {config['method']}, quality {quality}, image {config['data']} done."
@@ -113,4 +113,4 @@ def eval_dataset(data_dir):
 if __name__ == "__main__":
     args = get_args()
     results = eval_dataset(args.data_dir)
-    lrf.save_config(results, save_dir=args.save_dir, prefix=args.prefix)
+    qmf.save_config(results, save_dir=args.save_dir, prefix=args.prefix)

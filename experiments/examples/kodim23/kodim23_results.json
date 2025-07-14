@@ -1,0 +1,1772 @@
+[
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 0,
+        "compression ratio": 150.85012787723784,
+        "bit rate (bpp)": 0.15909830729166666,
+        "PSNR (dB)": 22.53297996520996,
+        "SSIM": 0.6709235310554504,
+        "MS-SSIM": 0.7234740853309631,
+        "encoding time (ms)": 1.0986328125,
+        "decoding time (ms)": 2.1848678588867188
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 1,
+        "compression ratio": 150.85012787723784,
+        "bit rate (bpp)": 0.15909830729166666,
+        "PSNR (dB)": 22.53297996520996,
+        "SSIM": 0.6709235310554504,
+        "MS-SSIM": 0.7234740853309631,
+        "encoding time (ms)": 1.0478496551513672,
+        "decoding time (ms)": 2.0341873168945312
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 2,
+        "compression ratio": 150.88871834228704,
+        "bit rate (bpp)": 0.1590576171875,
+        "PSNR (dB)": 22.533710479736328,
+        "SSIM": 0.670921266078949,
+        "MS-SSIM": 0.7234816551208496,
+        "encoding time (ms)": 1.1777877807617188,
+        "decoding time (ms)": 2.161741256713867
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 3,
+        "compression ratio": 146.86852589641435,
+        "bit rate (bpp)": 0.16341145833333334,
+        "PSNR (dB)": 22.678974151611328,
+        "SSIM": 0.679249107837677,
+        "MS-SSIM": 0.7283118963241577,
+        "encoding time (ms)": 1.0647773742675781,
+        "decoding time (ms)": 1.9507408142089844
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 4,
+        "compression ratio": 138.09974244907517,
+        "bit rate (bpp)": 0.17378743489583334,
+        "PSNR (dB)": 23.821582794189453,
+        "SSIM": 0.698611319065094,
+        "MS-SSIM": 0.7411380410194397,
+        "encoding time (ms)": 1.062154769897461,
+        "decoding time (ms)": 1.9412040710449219
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 5,
+        "compression ratio": 130.3766578249337,
+        "bit rate (bpp)": 0.18408203125,
+        "PSNR (dB)": 25.24336814880371,
+        "SSIM": 0.7302334308624268,
+        "MS-SSIM": 0.7898813486099243,
+        "encoding time (ms)": 1.0819435119628906,
+        "decoding time (ms)": 2.017974853515625
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 6,
+        "compression ratio": 122.80324797001875,
+        "bit rate (bpp)": 0.1954345703125,
+        "PSNR (dB)": 26.313674926757812,
+        "SSIM": 0.7523007988929749,
+        "MS-SSIM": 0.8151987791061401,
+        "encoding time (ms)": 1.0967254638671875,
+        "decoding time (ms)": 2.0401477813720703
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 7,
+        "compression ratio": 116.56600790513833,
+        "bit rate (bpp)": 0.20589192708333334,
+        "PSNR (dB)": 27.126977920532227,
+        "SSIM": 0.7693178653717041,
+        "MS-SSIM": 0.8382375240325928,
+        "encoding time (ms)": 1.104593276977539,
+        "decoding time (ms)": 2.0635128021240234
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 8,
+        "compression ratio": 111.08842640549958,
+        "bit rate (bpp)": 0.21604410807291666,
+        "PSNR (dB)": 27.817581176757812,
+        "SSIM": 0.7855423092842102,
+        "MS-SSIM": 0.858677864074707,
+        "encoding time (ms)": 1.1150836944580078,
+        "decoding time (ms)": 2.0754337310791016
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 9,
+        "compression ratio": 105.7790530846485,
+        "bit rate (bpp)": 0.22688802083333334,
+        "PSNR (dB)": 28.34770393371582,
+        "SSIM": 0.7969787120819092,
+        "MS-SSIM": 0.8691209554672241,
+        "encoding time (ms)": 1.1069774627685547,
+        "decoding time (ms)": 2.0329952239990234
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 10,
+        "compression ratio": 101.36174600446812,
+        "bit rate (bpp)": 0.23677571614583334,
+        "PSNR (dB)": 28.873424530029297,
+        "SSIM": 0.8091225624084473,
+        "MS-SSIM": 0.8821737170219421,
+        "encoding time (ms)": 1.4820098876953125,
+        "decoding time (ms)": 2.825021743774414
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 11,
+        "compression ratio": 97.13034170440511,
+        "bit rate (bpp)": 0.24709065755208334,
+        "PSNR (dB)": 29.326000213623047,
+        "SSIM": 0.8191360235214233,
+        "MS-SSIM": 0.8946553468704224,
+        "encoding time (ms)": 1.1167526245117188,
+        "decoding time (ms)": 2.075672149658203
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 12,
+        "compression ratio": 93.4152676591701,
+        "bit rate (bpp)": 0.2569173177083333,
+        "PSNR (dB)": 29.703168869018555,
+        "SSIM": 0.8276377320289612,
+        "MS-SSIM": 0.9012269377708435,
+        "encoding time (ms)": 1.1341571807861328,
+        "decoding time (ms)": 2.1216869354248047
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 13,
+        "compression ratio": 89.46894197952219,
+        "bit rate (bpp)": 0.26824951171875,
+        "PSNR (dB)": 30.130271911621094,
+        "SSIM": 0.8360157012939453,
+        "MS-SSIM": 0.9101254343986511,
+        "encoding time (ms)": 1.2526512145996094,
+        "decoding time (ms)": 2.328634262084961
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 14,
+        "compression ratio": 86.40843832405508,
+        "bit rate (bpp)": 0.2777506510416667,
+        "PSNR (dB)": 30.404550552368164,
+        "SSIM": 0.8416242003440857,
+        "MS-SSIM": 0.9153240323066711,
+        "encoding time (ms)": 1.2159347534179688,
+        "decoding time (ms)": 2.239227294921875
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 15,
+        "compression ratio": 83.46172350360833,
+        "bit rate (bpp)": 0.2875569661458333,
+        "PSNR (dB)": 30.717485427856445,
+        "SSIM": 0.8485027551651001,
+        "MS-SSIM": 0.9222643375396729,
+        "encoding time (ms)": 1.1692047119140625,
+        "decoding time (ms)": 2.292633056640625
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 16,
+        "compression ratio": 80.70935960591133,
+        "bit rate (bpp)": 0.29736328125,
+        "PSNR (dB)": 30.99307632446289,
+        "SSIM": 0.8537856340408325,
+        "MS-SSIM": 0.9270390868186951,
+        "encoding time (ms)": 1.1179447174072266,
+        "decoding time (ms)": 2.0825862884521484
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 17,
+        "compression ratio": 78.0293689641487,
+        "bit rate (bpp)": 0.3075764973958333,
+        "PSNR (dB)": 31.213701248168945,
+        "SSIM": 0.8587197661399841,
+        "MS-SSIM": 0.9312179088592529,
+        "encoding time (ms)": 1.1467933654785156,
+        "decoding time (ms)": 2.1636486053466797
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 18,
+        "compression ratio": 75.72525356271665,
+        "bit rate (bpp)": 0.3169352213541667,
+        "PSNR (dB)": 31.462547302246094,
+        "SSIM": 0.8636226654052734,
+        "MS-SSIM": 0.9356834888458252,
+        "encoding time (ms)": 1.3604164123535156,
+        "decoding time (ms)": 2.505064010620117
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 19,
+        "compression ratio": 73.77410881801126,
+        "bit rate (bpp)": 0.3253173828125,
+        "PSNR (dB)": 31.648841857910156,
+        "SSIM": 0.8665454983711243,
+        "MS-SSIM": 0.9369614720344543,
+        "encoding time (ms)": 1.2917518615722656,
+        "decoding time (ms)": 2.353191375732422
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 20,
+        "compression ratio": 71.81152979850246,
+        "bit rate (bpp)": 0.3342081705729167,
+        "PSNR (dB)": 31.819499969482422,
+        "SSIM": 0.8700178265571594,
+        "MS-SSIM": 0.9398636817932129,
+        "encoding time (ms)": 1.142263412475586,
+        "decoding time (ms)": 2.155303955078125
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 21,
+        "compression ratio": 69.91335269365258,
+        "bit rate (bpp)": 0.3432820638020833,
+        "PSNR (dB)": 32.04734420776367,
+        "SSIM": 0.8741400837898254,
+        "MS-SSIM": 0.9439634680747986,
+        "encoding time (ms)": 1.1458396911621094,
+        "decoding time (ms)": 2.1905899047851562
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 22,
+        "compression ratio": 68.06970571263705,
+        "bit rate (bpp)": 0.3525797526041667,
+        "PSNR (dB)": 32.15562438964844,
+        "SSIM": 0.8769301772117615,
+        "MS-SSIM": 0.9455642700195312,
+        "encoding time (ms)": 1.1374950408935547,
+        "decoding time (ms)": 2.1092891693115234
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 23,
+        "compression ratio": 66.42910237639374,
+        "bit rate (bpp)": 0.3612874348958333,
+        "PSNR (dB)": 32.37401580810547,
+        "SSIM": 0.8805006146430969,
+        "MS-SSIM": 0.948735237121582,
+        "encoding time (ms)": 1.1556148529052734,
+        "decoding time (ms)": 2.1715164184570312
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 24,
+        "compression ratio": 64.80870234040215,
+        "bit rate (bpp)": 0.3703206380208333,
+        "PSNR (dB)": 32.556968688964844,
+        "SSIM": 0.8836358785629272,
+        "MS-SSIM": 0.9512872099876404,
+        "encoding time (ms)": 1.135110855102539,
+        "decoding time (ms)": 2.1865367889404297
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 25,
+        "compression ratio": 63.41170778906628,
+        "bit rate (bpp)": 0.37847900390625,
+        "PSNR (dB)": 32.700340270996094,
+        "SSIM": 0.8860886693000793,
+        "MS-SSIM": 0.953043520450592,
+        "encoding time (ms)": 1.2831687927246094,
+        "decoding time (ms)": 2.2950172424316406
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 26,
+        "compression ratio": 61.96281121966593,
+        "bit rate (bpp)": 0.3873291015625,
+        "PSNR (dB)": 32.8565788269043,
+        "SSIM": 0.8885546922683716,
+        "MS-SSIM": 0.9547125697135925,
+        "encoding time (ms)": 1.1801719665527344,
+        "decoding time (ms)": 2.2008419036865234
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 27,
+        "compression ratio": 60.63469545104086,
+        "bit rate (bpp)": 0.39581298828125,
+        "PSNR (dB)": 33.03154373168945,
+        "SSIM": 0.8911803364753723,
+        "MS-SSIM": 0.9573038816452026,
+        "encoding time (ms)": 1.1608600616455078,
+        "decoding time (ms)": 2.178668975830078
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 28,
+        "compression ratio": 59.180655194902926,
+        "bit rate (bpp)": 0.4055379231770833,
+        "PSNR (dB)": 33.145843505859375,
+        "SSIM": 0.8930590748786926,
+        "MS-SSIM": 0.958411455154419,
+        "encoding time (ms)": 1.2412071228027344,
+        "decoding time (ms)": 2.2776126861572266
+    },
+    {
+        "data": "kodim23",
+        "method": "JPEG",
+        "quality": 29,
+        "compression ratio": 58.3348828009099,
+        "bit rate (bpp)": 0.4114176432291667,
+        "PSNR (dB)": 33.253170013427734,
+        "SSIM": 0.8946940898895264,
+        "MS-SSIM": 0.9594496488571167,
+        "encoding time (ms)": 1.1568069458007812,
+        "decoding time (ms)": 2.2194385528564453
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 0.0,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 192.06252035167697,
+        "bit rate (bpp)": 0.12495930989583333,
+        "PSNR (dB)": 17.910377502441406,
+        "SSIM": 0.7063704133033752,
+        "MS-SSIM": 0.7685146331787109,
+        "encoding time (ms)": 10.79249382019043,
+        "decoding time (ms)": 11.831998825073242
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 0.13793103448275862,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 192.06252035167697,
+        "bit rate (bpp)": 0.12495930989583333,
+        "PSNR (dB)": 17.910377502441406,
+        "SSIM": 0.7063704133033752,
+        "MS-SSIM": 0.7685146331787109,
+        "encoding time (ms)": 10.707378387451172,
+        "decoding time (ms)": 11.792659759521484
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 0.27586206896551724,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 192.06252035167697,
+        "bit rate (bpp)": 0.12495930989583333,
+        "PSNR (dB)": 17.910377502441406,
+        "SSIM": 0.7063704133033752,
+        "MS-SSIM": 0.7685146331787109,
+        "encoding time (ms)": 11.035442352294922,
+        "decoding time (ms)": 12.123584747314453
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 0.41379310344827586,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 192.06252035167697,
+        "bit rate (bpp)": 0.12495930989583333,
+        "PSNR (dB)": 17.910377502441406,
+        "SSIM": 0.7063704133033752,
+        "MS-SSIM": 0.7685146331787109,
+        "encoding time (ms)": 10.84280014038086,
+        "decoding time (ms)": 11.947393417358398
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 0.5517241379310345,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 192.06252035167697,
+        "bit rate (bpp)": 0.12495930989583333,
+        "PSNR (dB)": 17.910377502441406,
+        "SSIM": 0.7063704133033752,
+        "MS-SSIM": 0.7685146331787109,
+        "encoding time (ms)": 10.866880416870117,
+        "decoding time (ms)": 11.943817138671875
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 0.6896551724137931,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 192.06252035167697,
+        "bit rate (bpp)": 0.12495930989583333,
+        "PSNR (dB)": 17.910377502441406,
+        "SSIM": 0.7063704133033752,
+        "MS-SSIM": 0.7685146331787109,
+        "encoding time (ms)": 10.588407516479492,
+        "decoding time (ms)": 11.601924896240234
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 0.8275862068965517,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 118.3197592778335,
+        "bit rate (bpp)": 0.20284016927083334,
+        "PSNR (dB)": 21.50290298461914,
+        "SSIM": 0.717411458492279,
+        "MS-SSIM": 0.8463972210884094,
+        "encoding time (ms)": 10.964155197143555,
+        "decoding time (ms)": 11.89422607421875
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 0.9655172413793103,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 118.3197592778335,
+        "bit rate (bpp)": 0.20284016927083334,
+        "PSNR (dB)": 21.50290298461914,
+        "SSIM": 0.717411458492279,
+        "MS-SSIM": 0.8463972210884094,
+        "encoding time (ms)": 11.108636856079102,
+        "decoding time (ms)": 12.077093124389648
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 1.103448275862069,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 118.3197592778335,
+        "bit rate (bpp)": 0.20284016927083334,
+        "PSNR (dB)": 21.50290298461914,
+        "SSIM": 0.717411458492279,
+        "MS-SSIM": 0.8463972210884094,
+        "encoding time (ms)": 11.602163314819336,
+        "decoding time (ms)": 12.67862319946289
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 1.2413793103448276,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 118.3197592778335,
+        "bit rate (bpp)": 0.20284016927083334,
+        "PSNR (dB)": 21.50290298461914,
+        "SSIM": 0.717411458492279,
+        "MS-SSIM": 0.8463972210884094,
+        "encoding time (ms)": 10.750293731689453,
+        "decoding time (ms)": 11.675834655761719
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 1.3793103448275863,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 80.27000544365814,
+        "bit rate (bpp)": 0.2989908854166667,
+        "PSNR (dB)": 25.291915893554688,
+        "SSIM": 0.7418667674064636,
+        "MS-SSIM": 0.9002179503440857,
+        "encoding time (ms)": 10.913848876953125,
+        "decoding time (ms)": 11.85464859008789
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 1.5172413793103448,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 80.27000544365814,
+        "bit rate (bpp)": 0.2989908854166667,
+        "PSNR (dB)": 25.291915893554688,
+        "SSIM": 0.7418667674064636,
+        "MS-SSIM": 0.9002179503440857,
+        "encoding time (ms)": 11.526346206665039,
+        "decoding time (ms)": 12.4969482421875
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 1.6551724137931034,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 80.27000544365814,
+        "bit rate (bpp)": 0.2989908854166667,
+        "PSNR (dB)": 25.291915893554688,
+        "SSIM": 0.7418667674064636,
+        "MS-SSIM": 0.9002179503440857,
+        "encoding time (ms)": 11.224985122680664,
+        "decoding time (ms)": 12.160301208496094
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 1.793103448275862,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 80.27000544365814,
+        "bit rate (bpp)": 0.2989908854166667,
+        "PSNR (dB)": 25.291915893554688,
+        "SSIM": 0.7418667674064636,
+        "MS-SSIM": 0.9002179503440857,
+        "encoding time (ms)": 11.123180389404297,
+        "decoding time (ms)": 12.128829956054688
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 1.9310344827586206,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 66.83936766955635,
+        "bit rate (bpp)": 0.35906982421875,
+        "PSNR (dB)": 26.319971084594727,
+        "SSIM": 0.7761443853378296,
+        "MS-SSIM": 0.9241416454315186,
+        "encoding time (ms)": 10.928153991699219,
+        "decoding time (ms)": 11.942148208618164
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 2.0689655172413794,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 66.83936766955635,
+        "bit rate (bpp)": 0.35906982421875,
+        "PSNR (dB)": 26.319971084594727,
+        "SSIM": 0.7761443853378296,
+        "MS-SSIM": 0.9241416454315186,
+        "encoding time (ms)": 11.343955993652344,
+        "decoding time (ms)": 12.297391891479492
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 2.206896551724138,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 66.83936766955635,
+        "bit rate (bpp)": 0.35906982421875,
+        "PSNR (dB)": 26.319971084594727,
+        "SSIM": 0.7761443853378296,
+        "MS-SSIM": 0.9241416454315186,
+        "encoding time (ms)": 11.205673217773438,
+        "decoding time (ms)": 12.196540832519531
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 2.3448275862068964,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 53.91937105768352,
+        "bit rate (bpp)": 0.4451090494791667,
+        "PSNR (dB)": 27.354000091552734,
+        "SSIM": 0.8160610198974609,
+        "MS-SSIM": 0.9450858235359192,
+        "encoding time (ms)": 11.84535026550293,
+        "decoding time (ms)": 12.933015823364258
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 2.4827586206896552,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 53.91937105768352,
+        "bit rate (bpp)": 0.4451090494791667,
+        "PSNR (dB)": 27.354000091552734,
+        "SSIM": 0.8160610198974609,
+        "MS-SSIM": 0.9450858235359192,
+        "encoding time (ms)": 11.288166046142578,
+        "decoding time (ms)": 12.340545654296875
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 2.6206896551724137,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 53.91937105768352,
+        "bit rate (bpp)": 0.4451090494791667,
+        "PSNR (dB)": 27.354000091552734,
+        "SSIM": 0.8160610198974609,
+        "MS-SSIM": 0.9450858235359192,
+        "encoding time (ms)": 11.144876480102539,
+        "decoding time (ms)": 12.218236923217773
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 2.7586206896551726,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 53.91937105768352,
+        "bit rate (bpp)": 0.4451090494791667,
+        "PSNR (dB)": 27.354000091552734,
+        "SSIM": 0.8160610198974609,
+        "MS-SSIM": 0.9450858235359192,
+        "encoding time (ms)": 11.272907257080078,
+        "decoding time (ms)": 12.490510940551758
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 2.896551724137931,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 46.602457235412636,
+        "bit rate (bpp)": 0.5149943033854166,
+        "PSNR (dB)": 28.096599578857422,
+        "SSIM": 0.83072429895401,
+        "MS-SSIM": 0.9504824280738831,
+        "encoding time (ms)": 11.680126190185547,
+        "decoding time (ms)": 12.839794158935547
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 3.0344827586206895,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 46.602457235412636,
+        "bit rate (bpp)": 0.5149943033854166,
+        "PSNR (dB)": 28.096599578857422,
+        "SSIM": 0.83072429895401,
+        "MS-SSIM": 0.9504824280738831,
+        "encoding time (ms)": 11.64388656616211,
+        "decoding time (ms)": 12.749195098876953
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 3.1724137931034484,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 46.602457235412636,
+        "bit rate (bpp)": 0.5149943033854166,
+        "PSNR (dB)": 28.096599578857422,
+        "SSIM": 0.83072429895401,
+        "MS-SSIM": 0.9504824280738831,
+        "encoding time (ms)": 11.46697998046875,
+        "decoding time (ms)": 12.563943862915039
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 3.310344827586207,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 46.602457235412636,
+        "bit rate (bpp)": 0.5149943033854166,
+        "PSNR (dB)": 28.096599578857422,
+        "SSIM": 0.83072429895401,
+        "MS-SSIM": 0.9504824280738831,
+        "encoding time (ms)": 11.497974395751953,
+        "decoding time (ms)": 12.592554092407227
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 3.4482758620689653,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 40.698568224943934,
+        "bit rate (bpp)": 0.5897013346354166,
+        "PSNR (dB)": 28.595806121826172,
+        "SSIM": 0.8411756157875061,
+        "MS-SSIM": 0.9552415609359741,
+        "encoding time (ms)": 11.766433715820312,
+        "decoding time (ms)": 12.894868850708008
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 3.586206896551724,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 40.698568224943934,
+        "bit rate (bpp)": 0.5897013346354166,
+        "PSNR (dB)": 28.595806121826172,
+        "SSIM": 0.8411756157875061,
+        "MS-SSIM": 0.9552415609359741,
+        "encoding time (ms)": 11.786460876464844,
+        "decoding time (ms)": 12.989282608032227
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 3.7241379310344827,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 40.698568224943934,
+        "bit rate (bpp)": 0.5897013346354166,
+        "PSNR (dB)": 28.595806121826172,
+        "SSIM": 0.8411756157875061,
+        "MS-SSIM": 0.9552415609359741,
+        "encoding time (ms)": 11.728286743164062,
+        "decoding time (ms)": 12.86625862121582
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 3.862068965517241,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 40.698568224943934,
+        "bit rate (bpp)": 0.5897013346354166,
+        "PSNR (dB)": 28.595806121826172,
+        "SSIM": 0.8411756157875061,
+        "MS-SSIM": 0.9552415609359741,
+        "encoding time (ms)": 11.831283569335938,
+        "decoding time (ms)": 12.948274612426758
+    },
+    {
+        "data": "kodim23",
+        "method": "SVD",
+        "color_space": "RGB",
+        "quality": 4.0,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "compression ratio": 36.080379262884236,
+        "bit rate (bpp)": 0.6651814778645834,
+        "PSNR (dB)": 29.122940063476562,
+        "SSIM": 0.8528555631637573,
+        "MS-SSIM": 0.961161732673645,
+        "encoding time (ms)": 11.811017990112305,
+        "decoding time (ms)": 12.991666793823242
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 0.0,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 390.35340833884845,
+        "bit rate (bpp)": 0.061482747395833336,
+        "PSNR (dB)": 23.507625579833984,
+        "SSIM": 0.67214435338974,
+        "MS-SSIM": 0.7628219127655029,
+        "encoding time (ms)": 14.16468620300293,
+        "decoding time (ms)": 15.416860580444336
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 0.8620689655172413,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 390.35340833884845,
+        "bit rate (bpp)": 0.061482747395833336,
+        "PSNR (dB)": 23.507625579833984,
+        "SSIM": 0.67214435338974,
+        "MS-SSIM": 0.7628219127655029,
+        "encoding time (ms)": 14.456510543823242,
+        "decoding time (ms)": 15.7623291015625
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 1.7241379310344827,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 390.35340833884845,
+        "bit rate (bpp)": 0.061482747395833336,
+        "PSNR (dB)": 23.507625579833984,
+        "SSIM": 0.67214435338974,
+        "MS-SSIM": 0.7628219127655029,
+        "encoding time (ms)": 15.60521125793457,
+        "decoding time (ms)": 16.84713363647461
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 2.586206896551724,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 239.71713066449908,
+        "bit rate (bpp)": 0.10011800130208333,
+        "PSNR (dB)": 24.179916381835938,
+        "SSIM": 0.6949697136878967,
+        "MS-SSIM": 0.7886391878128052,
+        "encoding time (ms)": 17.584562301635742,
+        "decoding time (ms)": 18.892288208007812
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 3.4482758620689653,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 239.71713066449908,
+        "bit rate (bpp)": 0.10011800130208333,
+        "PSNR (dB)": 24.179916381835938,
+        "SSIM": 0.6949697136878967,
+        "MS-SSIM": 0.7886391878128052,
+        "encoding time (ms)": 20.27440071105957,
+        "decoding time (ms)": 21.53491973876953
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 4.310344827586206,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 168.497071846879,
+        "bit rate (bpp)": 0.14243570963541666,
+        "PSNR (dB)": 24.804590225219727,
+        "SSIM": 0.7194433212280273,
+        "MS-SSIM": 0.8131842017173767,
+        "encoding time (ms)": 20.17664909362793,
+        "decoding time (ms)": 21.492958068847656
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 5.172413793103448,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 142.29770808202653,
+        "bit rate (bpp)": 0.16866048177083334,
+        "PSNR (dB)": 25.938888549804688,
+        "SSIM": 0.7236104011535645,
+        "MS-SSIM": 0.8395792841911316,
+        "encoding time (ms)": 22.994279861450195,
+        "decoding time (ms)": 24.392366409301758
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 6.0344827586206895,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 126.49024233326185,
+        "bit rate (bpp)": 0.18973795572916666,
+        "PSNR (dB)": 26.594276428222656,
+        "SSIM": 0.7391436100006104,
+        "MS-SSIM": 0.8598869442939758,
+        "encoding time (ms)": 23.508310317993164,
+        "decoding time (ms)": 24.84750747680664
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 6.896551724137931,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 126.49024233326185,
+        "bit rate (bpp)": 0.18973795572916666,
+        "PSNR (dB)": 26.594276428222656,
+        "SSIM": 0.7391436100006104,
+        "MS-SSIM": 0.8598869442939758,
+        "encoding time (ms)": 23.449182510375977,
+        "decoding time (ms)": 24.78337287902832
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 7.758620689655172,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 112.31533847472151,
+        "bit rate (bpp)": 0.21368408203125,
+        "PSNR (dB)": 26.953018188476562,
+        "SSIM": 0.7484622597694397,
+        "MS-SSIM": 0.8672395944595337,
+        "encoding time (ms)": 26.93319320678711,
+        "decoding time (ms)": 28.397798538208008
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 8.620689655172413,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 94.42471784199151,
+        "bit rate (bpp)": 0.2541707356770833,
+        "PSNR (dB)": 28.011682510375977,
+        "SSIM": 0.7779399752616882,
+        "MS-SSIM": 0.9022446274757385,
+        "encoding time (ms)": 31.296968460083008,
+        "decoding time (ms)": 32.84096717834473
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 9.482758620689655,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 94.42471784199151,
+        "bit rate (bpp)": 0.2541707356770833,
+        "PSNR (dB)": 28.011682510375977,
+        "SSIM": 0.7779399752616882,
+        "MS-SSIM": 0.9022446274757385,
+        "encoding time (ms)": 30.918359756469727,
+        "decoding time (ms)": 32.38630294799805
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 10.344827586206897,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 85.81130428457118,
+        "bit rate (bpp)": 0.2796834309895833,
+        "PSNR (dB)": 28.365991592407227,
+        "SSIM": 0.7850154042243958,
+        "MS-SSIM": 0.9070001244544983,
+        "encoding time (ms)": 34.51895713806152,
+        "decoding time (ms)": 36.130428314208984
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 11.206896551724137,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 79.16038115689169,
+        "bit rate (bpp)": 0.3031819661458333,
+        "PSNR (dB)": 28.8408260345459,
+        "SSIM": 0.7956625819206238,
+        "MS-SSIM": 0.9229623079299927,
+        "encoding time (ms)": 35.22634506225586,
+        "decoding time (ms)": 36.69142723083496
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 12.068965517241379,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 72.3976924021112,
+        "bit rate (bpp)": 0.3315022786458333,
+        "PSNR (dB)": 29.164020538330078,
+        "SSIM": 0.804755449295044,
+        "MS-SSIM": 0.9267521500587463,
+        "encoding time (ms)": 36.14497184753418,
+        "decoding time (ms)": 37.74690628051758
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 12.93103448275862,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 72.3976924021112,
+        "bit rate (bpp)": 0.3315022786458333,
+        "PSNR (dB)": 29.164020538330078,
+        "SSIM": 0.804755449295044,
+        "MS-SSIM": 0.9267521500587463,
+        "encoding time (ms)": 36.50617599487305,
+        "decoding time (ms)": 38.101911544799805
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 13.793103448275861,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 70.9136158701533,
+        "bit rate (bpp)": 0.33843994140625,
+        "PSNR (dB)": 29.540300369262695,
+        "SSIM": 0.8208697438240051,
+        "MS-SSIM": 0.9331091642379761,
+        "encoding time (ms)": 39.5052433013916,
+        "decoding time (ms)": 41.0771369934082
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 14.655172413793103,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 67.39305301645338,
+        "bit rate (bpp)": 0.3561197916666667,
+        "PSNR (dB)": 29.702112197875977,
+        "SSIM": 0.8220142722129822,
+        "MS-SSIM": 0.9341833591461182,
+        "encoding time (ms)": 40.28034210205078,
+        "decoding time (ms)": 41.81814193725586
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 15.517241379310343,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 63.67526719205441,
+        "bit rate (bpp)": 0.3769124348958333,
+        "PSNR (dB)": 30.00007438659668,
+        "SSIM": 0.8286817073822021,
+        "MS-SSIM": 0.9365121126174927,
+        "encoding time (ms)": 43.352603912353516,
+        "decoding time (ms)": 44.93522644042969
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 16.379310344827584,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 63.67526719205441,
+        "bit rate (bpp)": 0.3769124348958333,
+        "PSNR (dB)": 30.00007438659668,
+        "SSIM": 0.8286817073822021,
+        "MS-SSIM": 0.9365121126174927,
+        "encoding time (ms)": 43.593406677246094,
+        "decoding time (ms)": 45.26972770690918
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 17.241379310344826,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 58.5578555472822,
+        "bit rate (bpp)": 0.40985107421875,
+        "PSNR (dB)": 30.462459564208984,
+        "SSIM": 0.8368598222732544,
+        "MS-SSIM": 0.9420060515403748,
+        "encoding time (ms)": 47.80411720275879,
+        "decoding time (ms)": 49.42798614501953
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 18.103448275862068,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 56.47761765691578,
+        "bit rate (bpp)": 0.4249471028645833,
+        "PSNR (dB)": 30.669933319091797,
+        "SSIM": 0.8393093347549438,
+        "MS-SSIM": 0.9427177309989929,
+        "encoding time (ms)": 46.68903350830078,
+        "decoding time (ms)": 48.413991928100586
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 18.96551724137931,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 56.47761765691578,
+        "bit rate (bpp)": 0.4249471028645833,
+        "PSNR (dB)": 30.669933319091797,
+        "SSIM": 0.8393093347549438,
+        "MS-SSIM": 0.9427177309989929,
+        "encoding time (ms)": 45.4404354095459,
+        "decoding time (ms)": 47.098398208618164
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 19.82758620689655,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 54.32410775961317,
+        "bit rate (bpp)": 0.4417928059895833,
+        "PSNR (dB)": 30.858478546142578,
+        "SSIM": 0.8384082317352295,
+        "MS-SSIM": 0.9427778124809265,
+        "encoding time (ms)": 49.24893379211426,
+        "decoding time (ms)": 50.917625427246094
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 20.689655172413794,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 51.68907194812024,
+        "bit rate (bpp)": 0.4643147786458333,
+        "PSNR (dB)": 31.022756576538086,
+        "SSIM": 0.840363621711731,
+        "MS-SSIM": 0.9454185366630554,
+        "encoding time (ms)": 53.41815948486328,
+        "decoding time (ms)": 55.28426170349121
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 21.551724137931032,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 50.116747387203674,
+        "bit rate (bpp)": 0.4788818359375,
+        "PSNR (dB)": 31.214570999145508,
+        "SSIM": 0.8420137763023376,
+        "MS-SSIM": 0.945783793926239,
+        "encoding time (ms)": 54.81290817260742,
+        "decoding time (ms)": 56.66613578796387
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 22.413793103448274,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 50.116747387203674,
+        "bit rate (bpp)": 0.4788818359375,
+        "PSNR (dB)": 31.214570999145508,
+        "SSIM": 0.8420137763023376,
+        "MS-SSIM": 0.945783793926239,
+        "encoding time (ms)": 52.26445198059082,
+        "decoding time (ms)": 54.05616760253906
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 23.275862068965516,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 48.51922839633118,
+        "bit rate (bpp)": 0.4946492513020833,
+        "PSNR (dB)": 31.353015899658203,
+        "SSIM": 0.841212272644043,
+        "MS-SSIM": 0.9455966949462891,
+        "encoding time (ms)": 56.35547637939453,
+        "decoding time (ms)": 58.07137489318848
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 24.137931034482758,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 46.83187105482552,
+        "bit rate (bpp)": 0.5124715169270834,
+        "PSNR (dB)": 31.483200073242188,
+        "SSIM": 0.8428899049758911,
+        "MS-SSIM": 0.9477271437644958,
+        "encoding time (ms)": 57.40857124328613,
+        "decoding time (ms)": 59.19003486633301
+    },
+    {
+        "data": "kodim23",
+        "method": "QMF",
+        "color_space": "YCbCr",
+        "scale_factor": [
+            0.5,
+            0.5
+        ],
+        "quality": 25.0,
+        "patch": true,
+        "patch_size": [
+            8,
+            8
+        ],
+        "bounds": [
+            -16,
+            15
+        ],
+        "dtype": "torch.int8",
+        "num_iters": 10,
+        "verbose": false,
+        "compression ratio": 45.13325936411983,
+        "bit rate (bpp)": 0.5317586263020834,
+        "PSNR (dB)": 31.634265899658203,
+        "SSIM": 0.843768298625946,
+        "MS-SSIM": 0.9480664730072021,
+        "encoding time (ms)": 58.11786651611328,
+        "decoding time (ms)": 59.99612808227539
+    }
+]

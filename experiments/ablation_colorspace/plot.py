@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-import lrf
+import qmf
 
 
 # Set directories
@@ -12,14 +12,14 @@ figures_dir = "paper/v2-tip/manuscript/figures"
 
 
 # Load results
-results = lrf.read_config(f"{results_dir}/{task}_results.json")
+results = qmf.read_config(f"{results_dir}/{task}_results.json")
 results = pd.DataFrame(results)
 results = results.query("`bit rate (bpp)` < 0.8")
 results.rename(columns={"color_space": "color space"}, inplace=True)
 
 
 # Plot PSNR vs bpp
-plot = lrf.Plot(
+plot = qmf.Plot(
     results, columns=("data", "method", "bit rate (bpp)", "color space", "PSNR (dB)")
 )
 

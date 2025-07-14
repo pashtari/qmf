@@ -1,5 +1,5 @@
 # --------- compression --------- #
-lrf @ git+https://github.com/pashtari/lrf.git
+qmf @ git+https://github.com/pashtari/qmf.git
 
 # --------- basics --------- #
 numpy==2.0.0

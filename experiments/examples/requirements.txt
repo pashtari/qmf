@@ -4,7 +4,7 @@ pandas==2.2.2
 torch==2.3.1
 
 # --------- compression --------- #
-lrf @ git+https://github.com/pashtari/lrf.git
+qmf @ git+https://github.com/pashtari/qmf.git
 
 # --------- visualization --------- #
 matplotlib==3.8.4

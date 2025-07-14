@@ -6,15 +6,15 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="lrf",
+    name="qmf",
     version="0.0.1",
-    description="A PyTorch implementation of low-rank factorization methods for image compression.",
+    description="A PyTorch implementation of quantization-aware matrix factorization methods for image compression.",
     author="Pooya Ashtari and Pourya Behmandpoor",
     author_email="pooya.ash@gmail.com",
-    url="https://github.com/pashtari/lrf",
+    url="https://github.com/pashtari/qmf",
     project_urls={
-        "Bug Tracker": "https://github.com/pashtari/lrf/issues",
-        "Source Code": "https://github.com/pashtari/lrf",
+        "Bug Tracker": "https://github.com/pashtari/qmf/issues",
+        "Source Code": "https://github.com/pashtari/qmf",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -25,7 +25,7 @@ setup(
     keywords=[
         "image compression",
         "machine learning",
-        "low-rank factorization",
+        "quantization-aware matrix factorization",
         "quantization-aware matrix factorization",
         "singular value decomposition",
     ],
